@@ -1,4 +1,6 @@
 live preview : ![Podcast app_github](https://github.com/templatevilla/podcastapp/assets/76429360/bfd4abea-3533-4bc5-ace1-24faed1ff96e)
+
+Download Free Figma file : https://www.uplabs.com/posts/podcast-app-4445c0b4-98bc-4dbf-8f6c-b1360a657f87
 # listen_podcast_app
 
 A new Flutter project.
